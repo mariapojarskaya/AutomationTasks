@@ -7,7 +7,10 @@
     <groupId>epam</groupId>
     <artifactId>mariapojaskaya</artifactId>
     <version>1.0-SNAPSHOT</version>
-    
+
+    <properties>
+        <suiteXmlFile></suiteXmlFile>
+    </properties>
 
     <dependencies>
         <dependency>
