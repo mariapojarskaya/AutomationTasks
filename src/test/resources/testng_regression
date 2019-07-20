@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test Suite" verbose="1">
+    <test name="Test With Annotations">
+
+        <classes>
+            <class name="task2.ex2.RegressionTests"/>
+        </classes>
+
+    </test>
+</suite>
